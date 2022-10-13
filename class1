@@ -1,1 +1,4 @@
 class1 java file
+class MyClass{
+ int a;
+}

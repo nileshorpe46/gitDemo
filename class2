@@ -1,0 +1,4 @@
+class2{
+ String name;
+ int contact;
+ }
